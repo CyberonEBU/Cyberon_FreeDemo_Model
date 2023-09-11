@@ -1,0 +1,13 @@
+License: Free Demo
+Language: Italian
+
+Trigger:
+	100	Ciao Arduino
+
+Command:
+	10000	Accendi La Fotocamera
+	10001	Fare Una Foto
+	10002	Suonare La Musica
+	10003	Fermare La Musica
+	10004	Canzone Precedente
+	10005	Canzone Successiva

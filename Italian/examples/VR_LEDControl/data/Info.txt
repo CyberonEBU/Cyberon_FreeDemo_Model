@@ -1,0 +1,12 @@
+License: Free Demo
+Language: Italian
+
+Trigger:
+	100	Ciao Arduino
+
+Command:
+	10000	Luce Verde
+	10001	Luce Rossa
+	10002	Luce Blu
+	10003	Luci Spente
+	10004	Accendi La Luce

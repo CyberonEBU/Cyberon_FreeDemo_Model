@@ -1,0 +1,13 @@
+License: Free Demo
+Language: Chinese(CHN)/English
+
+Trigger:
+	100	你好Arduino
+
+Command:
+	10000	開啟相機
+	10001	拍張照
+	10002	撥放音樂
+	10003	停止音樂
+	10004	上一首歌
+	10005	下一首歌

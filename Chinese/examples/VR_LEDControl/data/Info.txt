@@ -1,0 +1,12 @@
+License: Free Demo
+Language: Chinese(CHN)/English
+
+Trigger:
+	100	你好Arduino
+
+Command:
+	10000	變綠燈
+	10001	變紅燈
+	10002	變藍燈
+	10003	燈關掉
+	10004	燈打開
